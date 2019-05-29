@@ -1,6 +1,6 @@
 owner=413660639668731914
-prefix=1
-game=1play|#TheH1TS
+prefix=2
+game=2play|#TheH1TS
 stayinchannel=false
 songinstatus=false
-token=NTgzMDQ3NTE3NzU1OTMyNjcz.XO3sDg.mGlqUaHCtlMxQ1VYe6OEs4t12iQ
+token=NTgzMDY0NzI2NjY2MjE1NDM0.XO3shQ.iycr8TnWnI8g9xTs0OP6kzOFVRI
