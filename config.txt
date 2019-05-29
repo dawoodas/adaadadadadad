@@ -1,6 +1,6 @@
 owner=413660639668731914
 prefix=1
-game=1play|#Riyderz
+game=1play|#TheH1TS
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTgzMDQ3NTE3NzU1OTMyNjcz.XO3sDg.mGlqUaHCtlMxQ1VYe6OEs4t12iQ
